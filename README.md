@@ -197,5 +197,5 @@ All errors follow this structure:
 ---
 
 ## 👩‍💻 Author
-**Jahnvi Singh** — B.Tech CSE, IMS Engineering College  
+**Jahnvi Singh** — B.Tech CS, IMS Engineering College  
 GitHub: [@jahnvithakur13](https://github.com/jahnvithakur13)
