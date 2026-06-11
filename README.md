@@ -1,4 +1,4 @@
-# 🚀 Internship & Recruitment Management Backend System
+# Internship & Recruitment Management Backend System
 
 A REST API backend for managing internship applications, built with **Python + Flask + SQLite**.
 
