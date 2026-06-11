@@ -37,7 +37,7 @@ internship-backend/
 
 ---
 
-## 🚀 Setup & Run
+## Setup & Run
 
 ### 1. Clone the repo
 ```bash
@@ -60,7 +60,7 @@ Server runs at: `http://localhost:5000`
 
 ---
 
-## 🔐 Authentication Flow
+## Authentication Flow
 
 1. Register with a role: `candidate`, `recruiter`, or `admin`
 2. Login to receive a **JWT token**
@@ -71,7 +71,7 @@ Server runs at: `http://localhost:5000`
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 ### Auth
 | Method | Endpoint | Access | Description |
@@ -105,7 +105,7 @@ Server runs at: `http://localhost:5000`
 
 ---
 
-## 🔍 Search & Filter
+## Search & Filter
 
 ```
 GET /internships?location=remote&skills=python&status=open&page=1&limit=10&sort=deadline&order=asc
@@ -123,7 +123,7 @@ GET /internships?location=remote&skills=python&status=open&page=1&limit=10&sort=
 
 ---
 
-## 📊 Application Status Flow
+## Application Status Flow
 
 ```
 applied → shortlisted → interview_scheduled → selected
@@ -132,7 +132,7 @@ applied → shortlisted → interview_scheduled → selected
 
 ---
 
-## 🗄️ Database Schema (ER Diagram)
+## Database Schema (ER Diagram)
 
 ```
 users
@@ -150,7 +150,7 @@ applications
 
 ---
 
-## 📬 Sample API Requests
+## Sample API Requests
 
 ### Register
 ```bash
@@ -184,7 +184,7 @@ curl -X POST http://localhost:5000/internships/1/apply \
 
 ---
 
-## 📝 Error Response Format
+## Error Response Format
 
 All errors follow this structure:
 ```json
@@ -196,6 +196,6 @@ All errors follow this structure:
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Jahnvi Singh** — B.Tech CS, IMS Engineering College  
 GitHub: [@jahnvithakur13](https://github.com/jahnvithakur13)
