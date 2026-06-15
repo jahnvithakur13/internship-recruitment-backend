@@ -10,6 +10,10 @@ A REST API backend for managing internship applications, built with **Python + F
 - Role-Based Access Control (Candidate / Recruiter / Admin)
 
 ---
+## 🔗 Live Demo
+**API Base URL:** https://internship-recruitment-backend.onrender.com
+
+> Note: First request may take ~30s (free-tier server wakes up from sleep)
 
 ## 🗂️ Folder Structure
 
